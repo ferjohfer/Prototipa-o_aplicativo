@@ -1,2 +1,2 @@
 # Prototipa-o_aplicativo
-Criado para a disciplina de Gerenciamento de Projetos.
+Criado para a disciplina de Gerenciamento de Projetos!
